@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Manoel
 ====================================================================================================================================
 
-I'm a **Software Engineer** with more than 2 years of professional experience. I spend my days deep in Ruby on Rails code, contributing to some of the leading financial solutions in Brazil. I'm a big fan of Test-Driven Development (TDD) and I use tools like RSpec to make sure everything I build is up to par. In my book, good testing equals good software. Always happy to connect with fellow tech enthusiasts - feel free to reach out!
+I'm a **Software Engineer** with more than 3 years of professional experience. I spend my days deep in Ruby on Rails code, contributing to some of the leading financial solutions in Brazil. I'm a big fan of Test-Driven Development (TDD) and I use tools like RSpec to make sure everything I build is up to par. In my book, good testing equals good software. Always happy to connect with fellow tech enthusiasts - feel free to reach out!
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [pedromanoel.com](http://pedromanoel.com)

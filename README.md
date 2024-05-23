@@ -1,19 +1,9 @@
-# Hi there, I'm Pedro Manoel 👋
+---
 
-## 👨‍💻 About Me
+Hi there, I'm Pedro Manoel.
 
-I'm a Software Engineer with a strong background in full-stack development, specializing in Ruby on Rails and JavaScript frameworks. I focus on creating scalable solutions and optimizing user experiences.
+I'm a Senior Software Engineer with a background in full-stack development, specializing in Ruby on Rails and JavaScript frameworks.
 
-## 🛠 Skills and Tools
+I solve people problems, build scalable solutions and optimize user experiences. Reach out to me on [LinkedIn](https://linkedin.com/in/pedromnoel) or [X](https://x.com/pedrmnoel).
 
-- **Languages:** Ruby, JavaScript and TypeScript
-- **Frameworks & Libraries:** Ruby on Rails, React, Next.js, Vue.js, Node.js, Tailwind CSS
-- **Database & Infra:** PostgreSQL, Redis, Sidekiq, Docker, AWS EC2
-
-## 📫 Get in Touch
-
-- **GitHub:** [github.com/p-manoel](https://github.com/p-manoel)
-- **LinkedIn:** [linkedin.com/in/pedromnoel](https://linkedin.com/in/pedromnoel)
-- **Email:** [dev.pedromanoel@pm.me](mailto:dev.pedromanoel@pm.me)
-- **Twitter:** [@pedrmnoel](https://twitter.com/pedrmnoel)
 ---

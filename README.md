@@ -22,5 +22,3 @@ I'm a Software Engineer with a strong background in full-stack development, spec
 - **Email:** [dev.pedromanoel@pm.me](mailto:dev.pedromanoel@pm.me)
 
 ---
-
-I hope this fits your needs better!

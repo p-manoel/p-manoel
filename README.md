@@ -1,8 +1,4 @@
----
-
 # Hi there, I'm Pedro Manoel 👋
-
----
 
 ## 👨‍💻 About Me
 

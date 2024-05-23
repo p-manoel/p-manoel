@@ -16,5 +16,5 @@ I'm a Software Engineer with a strong background in full-stack development, spec
 - **GitHub:** [github.com/p-manoel](https://github.com/p-manoel)
 - **LinkedIn:** [linkedin.com/in/pedromnoel](https://linkedin.com/in/pedromnoel)
 - **Email:** [dev.pedromanoel@pm.me](mailto:dev.pedromanoel@pm.me)
-
+- **Twitter:** [@pedrmnoel](https://twitter.com/pedrmnoel)
 ---

@@ -6,10 +6,9 @@ I'm a Software Engineer with a strong background in full-stack development, spec
 
 ## 🛠 Skills and Tools
 
-- **Languages:** Ruby on Rails, JavaScript, TypeScript, VueJs, React, Node.js
-- **Frontend:** Hotwire, Turbo Stimulus, Tailwind CSS, Chart JS
-- **Backend:** PostgreSQL, Redis, Sidekiq, Docker, AWS EC2
-- **Integration & Automation:** REST APIs, Postmark, Jira, Customer.io, Zendesk
+- **Languages:** Ruby, JavaScript and TypeScript
+- **Frameworks & Libraries:** Ruby on Rails, React, Next.js, Vue.js, Node.js, Tailwind CSS
+- **Database & Infra:** PostgreSQL, Redis, Sidekiq, Docker, AWS EC2
 
 ## 📫 Get in Touch
 
